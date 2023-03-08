@@ -6,5 +6,7 @@ echo "---git add & commit."
 git add .
 git commit -m "updated on `(date +"%Y/%m/%d")`"
 
-echo "---git push /public from /public to master."
-@REM git subtree push --prefix public/ origin master
+echo "push develop and master"
+git push
+git subtree push --prefix public/ origin master
+
