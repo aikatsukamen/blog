@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 記録</title>
-    <link>https://aikatssukamen.github.io/blog/tags/</link>
+    <link>https://aikatsukamen.github.io/blog/tags/</link>
     <description>Recent content in Tags on 記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 04 Mar 2023 18:43:09 +0900</lastBuildDate><atom:link href="https://aikatssukamen.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 18:43:09 +0900</lastBuildDate><atom:link href="https://aikatsukamen.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aikatsu</title>
-      <link>https://aikatssukamen.github.io/blog/tags/aikatsu/</link>
+      <link>https://aikatsukamen.github.io/blog/tags/aikatsu/</link>
       <pubDate>Sat, 04 Mar 2023 18:43:09 +0900</pubDate>
       
-      <guid>https://aikatssukamen.github.io/blog/tags/aikatsu/</guid>
+      <guid>https://aikatsukamen.github.io/blog/tags/aikatsu/</guid>
       <description></description>
     </item>
     
