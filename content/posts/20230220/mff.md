@@ -3,8 +3,8 @@ title: "ミュージックフェスタFINAL"
 date: 2023-02-20T19:12:29+09:00
 image: "image.jpeg"
 draft: false
-tags:
-  - aikatsu
+# tags:
+#   - aikatsu
 ---
 
 - 物販

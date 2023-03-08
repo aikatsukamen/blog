@@ -5,13 +5,7 @@
     <loc>https://aikatsukamen.github.io/blog/</loc>
     <lastmod>2023-03-04T18:43:09+09:00</lastmod>
   </url><url>
-    <loc>https://aikatsukamen.github.io/blog/tags/aikatsu/</loc>
-    <lastmod>2023-03-04T18:43:09+09:00</lastmod>
-  </url><url>
     <loc>https://aikatsukamen.github.io/blog/posts/</loc>
-    <lastmod>2023-03-04T18:43:09+09:00</lastmod>
-  </url><url>
-    <loc>https://aikatsukamen.github.io/blog/tags/</loc>
     <lastmod>2023-03-04T18:43:09+09:00</lastmod>
   </url><url>
     <loc>https://aikatsukamen.github.io/blog/posts/20230304/aikatsu-planet/</loc>
@@ -21,5 +15,7 @@
     <lastmod>2023-02-20T19:12:29+09:00</lastmod>
   </url><url>
     <loc>https://aikatsukamen.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://aikatsukamen.github.io/blog/tags/</loc>
   </url>
 </urlset>
