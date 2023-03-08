@@ -1,0 +1,12 @@
+baseURL = 'https://aikatssukamen.github.io/'
+languageCode = 'ja-jp'
+title = '記録'
+theme = 'diary'
+
+[outputs]
+  home = ['HTML', 'JSON']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
