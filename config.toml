@@ -1,4 +1,4 @@
-baseURL = 'https://aikatssukamen.github.io/'
+baseURL = 'https://aikatssukamen.github.io/blog'
 languageCode = 'ja-jp'
 title = '記録'
 theme = 'diary'
