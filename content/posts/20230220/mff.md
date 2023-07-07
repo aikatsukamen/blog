@@ -37,7 +37,7 @@ draft: false
 <div id="mff14" class="photo"></div>
 <div id="mff15" class="photo"></div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r105/three.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/panolens@0.11.0/build/panolens.min.js"></script>
 
 <script>
