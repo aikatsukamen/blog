@@ -42,14 +42,14 @@ draft: false
     viewer.add(panorama);
   };
 
-viewPanorama("#s11", "https://github.com/aikatsukamen/blog/assets/32575736/c8a17b57-10e2-40df-b7b5-a019d91b14d3");
-viewPanorama("#s12", "https://github.com/aikatsukamen/blog/assets/32575736/73c43168-d556-4984-9919-6a88eb147137");
-viewPanorama("#s13", "https://github.com/aikatsukamen/blog/assets/32575736/0162e710-b707-4b9e-ac14-3a4457bf5213");
-viewPanorama("#s14", "https://github.com/aikatsukamen/blog/assets/32575736/929074a7-2015-4054-9709-82a78ea1c38c");
-viewPanorama("#s15", "https://github.com/aikatsukamen/blog/assets/32575736/8cafe7af-72f9-445f-822b-d3dfbe70d125");
-viewPanorama("#s16", "https://github.com/aikatsukamen/blog/assets/32575736/4a854bd3-f093-4fba-9858-955f137327d0");
-viewPanorama("#s17", "https://github.com/aikatsukamen/blog/assets/32575736/7df1476f-b23c-4f92-b377-041ce5388971");
-viewPanorama("#s18", "https://github.com/aikatsukamen/blog/assets/32575736/ee72b058-2757-4af6-8da0-15b5ff974b8d");
-viewPanorama("#s19", "https://github.com/aikatsukamen/blog/assets/32575736/ab9c0b5d-5e76-4ee0-9b6e-fe1a23451e15");
+viewPanorama("#s11", "../IMG_20230707_110701_00_011_PureShot.jpg");
+viewPanorama("#s12", "../IMG_20230707_110739_00_012_PureShot.jpg");
+viewPanorama("#s13", "../IMG_20230707_110748_00_013_PureShot.jpg");
+viewPanorama("#s14", "../IMG_20230707_110839_00_014_PureShot.jpg");
+viewPanorama("#s15", "../IMG_20230707_110939_00_015_PureShot.jpg");
+viewPanorama("#s16", "../IMG_20230707_111118_00_016_PureShot.jpg");
+viewPanorama("#s17", "../IMG_20230707_120627_00_017_PureShot.jpg");
+viewPanorama("#s18", "../IMG_20230707_120854_00_018_PureShot.jpg");
+viewPanorama("#s19", "../IMG_20230707_121152_00_019_PureShot.jpg");
 
 </script>
