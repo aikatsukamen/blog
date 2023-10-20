@@ -1,7 +1,7 @@
 ---
 title: "アイカツ アトレ秋葉原 POPUP SHOP"
 date: 2023-10-20T10:28:19+09:00
-draft: true
+draft: false
 ---
 
 <style>
