@@ -4,7 +4,7 @@ hugo -D
 
 echo "---git add & commit."
 git add .
-git commit -m "updated on `(date +"%Y/%m/%d")`"
+git commit -m "update content"
 
 echo "push develop and master"
 git push
