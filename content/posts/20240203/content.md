@@ -1,5 +1,5 @@
 ---
-title: "Content"
+title: "『アイカツ！×サンリオキャラクターズ』POP UP SHOP"
 date: 2024-02-03T06:53:53+09:00
 draft: false
 ---
