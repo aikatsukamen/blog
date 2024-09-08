@@ -1,5 +1,5 @@
 ---
-title: "Content"
+title: "アイカツ！ 10th STORY ～未来へのSTARWAY～ in 浅草花やしき"
 date: 2024-08-01T23:38:56+09:00
 draft: false
 ---
